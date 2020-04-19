@@ -1,2 +1,4 @@
-# 🇬​🇱​🇮​🇹​🇨​🇭
-bugs, zerodays and nullness
+##  🇬​🇱​🇮​🇹​🇭🇨 
+nothing but bugs, zerodays 
+and nullness round these 
+parts. 
